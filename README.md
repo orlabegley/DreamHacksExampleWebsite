@@ -1,2 +1,1 @@
-# DreamHacksExampleWebsite
-WebDev workshops for DreamHacks hackathon
+# skeleton-movie-finder
